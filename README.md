@@ -1,4 +1,4 @@
-# Data Scientist
+# Fariha Hoque Mimma
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
