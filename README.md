@@ -1,4 +1,4 @@
-# Fariha Hoque Mimma
+# Portfolio
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
