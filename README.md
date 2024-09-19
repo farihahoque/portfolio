@@ -21,7 +21,7 @@ B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of E
   
 ## Personal Works
 
-### Manual Testing Projects:
+### **Manual Testing Projects:**
 **Testcase Writing**  
 •	Manual Testing of “ www.gadstyle.com ”  
 [Project Link](https://github.com/farihahoque/Manual-Testing_gadstyle.com.git)
@@ -38,11 +38,29 @@ B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of E
 •	API Testing of Hotel Booking Record                                            
 [Project Link](https://github.com/farihahoque/Hotel-Booking-API-Testing.git)
 
--Provides a collection of tests for **GET**, **POST**, **PUT**, **PATCH**, and **DELETE** requests with Newman dashboard report.
+- Provides a collection of tests for **GET**, **POST**, **PUT**, **PATCH**, and **DELETE** requests with Newman dashboard report.
 
 •	API Testing of Student Details Record                                                        [Project Link](https://github.com/farihahoque/Student-Details-API-Testing.git)
 
--Provides a collection of tests for **GET** and **POST** requests with the Newman dashboard report.
+- Provides a collection of tests for **GET** and **POST** requests with the Newman dashboard report.
 
 **Performance Testing using JMeter**
+•	Booking Record APIs Performance Testing                                                      [Project Link](https://github.com/farihahoque/BookingAPIs-Automated-Performance-Testing.git)
 
+- Load testing using JMeter, involving **PUT**, **POST**, and **GET** requests. 
+
+• Website Load Testing                                                                          [Project Link](https://github.com/farihahoque/Performance_testing_on_website.git)
+
+- Performance testing of "www.telerik.com" with multiple API requests.
+
+### **Automation Testing Projects:**
+**Web Automation Testing**
+•	Web Automation Testing using Selenium(https://islamicshopdk.com/)                            [Project Link](https://github.com/farihahoque/islamicshopdk.com_Automation_Testing_Using_Selenium.git)
+
+- Leverages Selenium,  alongside Allure Reports for detailed test reporting.
+
+•	Web Automation Testing using Selenium (https://www.wafilife.com/)                            [Project Link](https://github.com/farihahoque/Manual_And_Automation_Testing_www.wafilife.com_Project02.git)
+
+- Showcases a comprehensive approach to software testing by integrating both automated and manual testing methodologies.
+- Also leverages Selenium,  alongside Allure Reports for detailed test reporting.
+- Moreover, it includes manually executed test cases.
