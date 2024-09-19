@@ -1,8 +1,9 @@
 # Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills:
+#### Testing: 
+Manual testing, API testing, performance testing, web automation testing, and mobile automation testing.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Sc, Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:3.27
+- HSC,Science| Rajshahi College (_2017_) | GPA:5.00
