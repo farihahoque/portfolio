@@ -17,7 +17,7 @@ GitHub
 with software development life cycle (SDLC), software testing life cycle (STLC), and object-oriented programming (OOP).
 
 ## Education
-B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
+- B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
   
 ## Personal Works
 
@@ -26,7 +26,7 @@ B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of E
 •	Manual Testing of “ www.gadstyle.com ”  
 [Project Link](https://github.com/farihahoque/Manual-Testing_gadstyle.com.git)
 
-Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
+- Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
 
 •	Manual Testing of https://www.logitechg.com/”                                                
 [Project Link](https://github.com/farihahoque/Manual-testing-on-Logitechg.com.git)
