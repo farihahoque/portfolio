@@ -18,11 +18,17 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 
 ## Education
 - B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
-- HSC | Science | Rajshahi College (_2017_) | GPA:_5.00_
+  
 ## Personal Works
+
 ### Manual Testing Projects:
-#### Testcase Writing  
-•	Manual Testing of “ www.gadstyle.com ” 
+**Testcase Writing**  
+•	Manual Testing of “ www.gadstyle.com ”  
 [Project Link](https://github.com/farihahoque/Manual-Testing_gadstyle.com.git)
+-Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
 
+•	Manual Testing of https://www.logitechg.com/”                                                
+[Project Link](https://github.com/farihahoque/Manual-testing-on-Logitechg.com.git)
 
+-Tests only login and registration features.
+-Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
