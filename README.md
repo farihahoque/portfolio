@@ -17,7 +17,7 @@ GitHub
 with software development life cycle (SDLC), software testing life cycle (STLC), and object-oriented programming (OOP).
 
 ## Education
-- B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
+B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
   
 ## Personal Works
 
@@ -33,3 +33,16 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 
 - Tested only login and registration features.
 - Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
+
+**API Testing using Postman**  
+•	API Testing of Hotel Booking Record                                            
+[Project Link](https://github.com/farihahoque/Hotel-Booking-API-Testing.git)
+
+-Provides a collection of tests for **GET**, **POST**, **PUT**, **PATCH**, and **DELETE** requests with Newman dashboard report.
+
+•	API Testing of Student Details Record                                                        [Project Link](https://github.com/farihahoque/Student-Details-API-Testing.git)
+
+-Provides a collection of tests for **GET** and **POST** requests with the Newman dashboard report.
+
+**Performance Testing using JMeter**
+
