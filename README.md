@@ -1,5 +1,4 @@
-# Portfolio
-
+# **Portfolio**
 ## Technical Skills
 #### Testing: 
 Manual testing, API testing, performance testing, web automation testing, and mobile automation testing.
@@ -17,7 +16,7 @@ GitHub
 with software development life cycle (SDLC), software testing life cycle (STLC), and object-oriented programming (OOP).
 
 ## Education
-B.Sc | Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
+- B.Sc. Eng., Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
   
 ## Personal Works
 
