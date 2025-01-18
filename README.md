@@ -66,14 +66,37 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 - Showcases a comprehensive approach to software testing by integrating both automated and manual testing methodologies.
 - Also leverages Selenium,  alongside Allure Reports for detailed test reporting.
 - Moreover, it includes manually executed test cases.
+  
+•	Web Automation Testing using Playwright                                                         [Project Link]
+https://github.com/farihahoque/Manual_And_Automation_Testing_www.wafilife.com_Project02.git    
+- This project leverages Playwright, a more powerful tool than Selenium for web application automation, alongside Allure Reports for detailed test reporting by the automated testing methodology of “https://www.applegadgetsbd.com/”.
+
+**Mobile Automation Testing**
+•	Mobile Automation Testing using Appium
+https://github.com/farihahoque/Mobile_Automation_Project.git                                    [Project Link]
+- This project describes a mobile automation project using Appium to automate the testing of “GeneralStore.apk”. The emulator is made using “Android Studio” software for testing.
+
+**Cucumber Framework**
+•	Web Automation Testing using Cucumber Framework
+https://github.com/farihahoque/CucumberProject.git                                             [Project Link]
+- The project presents source code and documentation for an automation testing project of “wafilife.com” that uses Selenium, Java, TestNG, and the Cucumber Framework.         
 
 ## Training
-SQA and Cyber Security (_Started from March 2024_)
+SQA and Cyber Security (_Started from March 2024 to October 2024_)
 - IT Training BD, a United States-based training organization.
 
 ## Certificate
 Certification of Programming in JavaScript
 - Online Course, Coursera
+- Image:
+![image](https://github.com/user-attachments/assets/086675b1-fbf1-4e19-84fb-c929c8e9815a)
+
+Certification of Certification of SQA and Cyber Security Course
+- IT Training BD
+- Image:
+![image](https://github.com/user-attachments/assets/6aca1d99-41a0-467f-aa75-0be17fe7997b)
+
+
 
 ## Extracurricular Activity
 •	Content Writing, LEXIS INC, Rajshahi(_2019-2020_)                                                                                             
