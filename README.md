@@ -52,7 +52,7 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 
 • Website Load Testing                                                                          [Project Link](https://github.com/farihahoque/Performance_testing_on_website.git)
 
-- Performance testing of "www.telerik.com" with multiple API requests.
+- Performance testing of "www.telerik.com" with multiple API requests 
 
 ### **Automation Testing Projects:**
 **Web Automation Testing**
@@ -73,11 +73,11 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 
 **Mobile Automation Testing**
 •	Mobile Automation Testing using Appium                                  [Project Link](https://github.com/farihahoque/Mobile_Automation_Project.git)
-- This project describes a mobile automation project using Appium to automate the testing of “GeneralStore.apk”. The emulator is made using “Android Studio” software for testing.
+- This project describes a mobile automation project using Appium to automate the testing of “GeneralStore.apk”, demonstrating end-to-end testing by automating key user journeys and ensuring application stability.The emulator is made using the “Android Studio” software for testing.
 
 **Cucumber Framework**
-•	Web Automation Testing using Cucumber Framewor                           [Project Link](https://github.com/farihahoque/CucumberProject.git)
-- The project presents source code and documentation for an automation testing project of “wafilife.com” that uses Selenium, Java, TestNG, and the Cucumber Framework.         
+•	Web Automation Testing using Cucumber Framework                           [Project Link](https://github.com/farihahoque/CucumberProject.git)
+- Presents source code and documentation for an automation testing project of “wafilife.com” that uses Selenium, Java, TestNG, and the Cucumber Framework, demonstrating proficiency in Behavior-Driven Development (BDD) and creating readable, maintainable test suites.        
 
 ## Training
 SQA and Cyber Security (_Started from March 2024 to October 2024_)
@@ -89,7 +89,7 @@ Certification of Programming in JavaScript
 - Image:
 ![image](https://github.com/user-attachments/assets/086675b1-fbf1-4e19-84fb-c929c8e9815a)
 
-Certification of Certification of SQA and Cyber Security Course
+Certification of SQA and Cyber Security Course
 - IT Training BD
 - Image:
 ![image](https://github.com/user-attachments/assets/6aca1d99-41a0-467f-aa75-0be17fe7997b)
