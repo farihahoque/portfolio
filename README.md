@@ -67,8 +67,8 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 - Also leverages Selenium,  alongside Allure Reports for detailed test reporting.
 - Moreover, it includes manually executed test cases.
   
-•	Web Automation Testing using Playwright                                                         [Project Link]
-https://github.com/farihahoque/Manual_And_Automation_Testing_www.wafilife.com_Project02.git    
+•	Web Automation Testing using Playwright                                                         [Project Link](https://github.com/farihahoque/Playwright_Project_applegadgetsbd.com.git).
+  
 - This project leverages Playwright, a more powerful tool than Selenium for web application automation, alongside Allure Reports for detailed test reporting by the automated testing methodology of “https://www.applegadgetsbd.com/”.
 
 **Mobile Automation Testing**
