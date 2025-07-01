@@ -67,18 +67,16 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 - Also leverages Selenium,  alongside Allure Reports for detailed test reporting.
 - Moreover, it includes manually executed test cases.
   
-•	Web Automation Testing using Playwright                                                         [Project Link](https://github.com/farihahoque/Playwright_Project_applegadgetsbd.com.git).
+•	Web Automation Testing using Playwright                                                         [Project Link](https://github.com/farihahoque/Playwright_Project_applegadgetsbd.com.git)
   
 - This project leverages Playwright, a more powerful tool than Selenium for web application automation, alongside Allure Reports for detailed test reporting by the automated testing methodology of “https://www.applegadgetsbd.com/”.
 
 **Mobile Automation Testing**
-•	Mobile Automation Testing using Appium
-https://github.com/farihahoque/Mobile_Automation_Project.git                                    [Project Link]
+•	Mobile Automation Testing using Appium                                  [Project Link](https://github.com/farihahoque/Mobile_Automation_Project.git)
 - This project describes a mobile automation project using Appium to automate the testing of “GeneralStore.apk”. The emulator is made using “Android Studio” software for testing.
 
 **Cucumber Framework**
-•	Web Automation Testing using Cucumber Framework
-https://github.com/farihahoque/CucumberProject.git                                             [Project Link]
+•	Web Automation Testing using Cucumber Framewor                           [Project Link](https://github.com/farihahoque/CucumberProject.git)
 - The project presents source code and documentation for an automation testing project of “wafilife.com” that uses Selenium, Java, TestNG, and the Cucumber Framework.         
 
 ## Training
