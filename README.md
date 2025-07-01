@@ -22,21 +22,18 @@ with software development life cycle (SDLC), software testing life cycle (STLC),
 
 ### **Manual Testing Projects:**
 **Testcase Writing**  
-•	Manual Testing of “ www.gadstyle.com ”  
-[Project Link](https://github.com/farihahoque/Manual-Testing_gadstyle.com.git)
+•	Manual Testing of “ www.gadstyle.com ”                                                          [Project Link](https://github.com/farihahoque/Manual-Testing_gadstyle.com.git)
 
 - Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
 
-•	Manual Testing of https://www.logitechg.com/”                                                
-[Project Link](https://github.com/farihahoque/Manual-testing-on-Logitechg.com.git)
+•	Manual Testing of https://www.logitechg.com/”                                                [Project Link](https://github.com/farihahoque/Manual-testing-on-Logitechg.com.git)
 
 - Tested only login and registration features.
 - Includes a **test plan**, **mind map**, **test scenarios**, **test cases**, **test summary report**, **bug report**, and **test matrices**.
 
 **API Testing using Postman**  
 
-•	API Testing of Hotel Booking Record                                            
-[Project Link](https://github.com/farihahoque/Hotel-Booking-API-Testing.git)
+•	API Testing of Hotel Booking Record                                            [Project Link](https://github.com/farihahoque/Hotel-Booking-API-Testing.git)
 
 - Provides a collection of tests for **GET**, **POST**, **PUT**, **PATCH**, and **DELETE** requests with Newman dashboard report.
 
