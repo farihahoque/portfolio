@@ -1,20 +1,19 @@
 # **Portfolio**
 ## Technical Skills
-#### Testing: 
-Manual testing, API testing, performance testing, web automation testing, and mobile automation testing.
-#### SQA Tools: 
-Postman, JMeter, Selenium, Playwright, Appium and Cucumber.
-#### Programming:
+### Testing Methodologies: 
+Manual Testing (Test Planning, Test Case Design, Bug Reporting, Root Cause Analysis, test summery report, test matrices), API Testing, Performance Testing, Web Automation, Mobile Automation, CI/CD.
+### Testing Tools: 
+Postman, JMeter, Selenium WebDriver, Playwright, Appium, Jenkins, and Cucumber.
+### Programming:
 C, python, java, javascript, and SQL.
-#### MS Tools:
-MS Word, MS PowerPoint, Visio, and MS Excel.
-### Database:
-MySQL
-### Source and Version Control:
-GitHub
+### Database and Version Control:
+MySQL, PostgreSQL, GitHub
+### Project Management Tool: 
+Jira
 ### Concepts:
 with software development life cycle (SDLC), software testing life cycle (STLC), and object-oriented programming (OOP).
-
+### Office Productivity:
+Microsoft Word, Intermediate Excel, Visio, PowerPoint.
 ## Education
 - B.Sc. Eng., Electronics and Telecommunication Engineering  | Rajshahi University of Engineering and Technology(_2023_) | CGPA:_3.27_
   
